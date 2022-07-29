@@ -3,5 +3,7 @@
 
 Raavi bala siva durga prasad <br>
 in this project i learnt about positions and styling of cards <br>
-it took me 7 hours to complete this project
+it took me 7 hours to complete this project <br>
 
+live link
+https://project-11-hosting-landing.netlify.app/
